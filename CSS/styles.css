@@ -1,0 +1,10 @@
+footer a {
+    color: white;
+}
+
+.jumbotron {
+    background-image: url("https://i.picsum.photos/id/287/4288/2848.jpg?hmac=f_-W7-bOKUxLoH9uOz4Hwk9D8zYTgzbHX7i_vY_ljug");
+    background-size: cover;
+    height: 80vh;
+}
+
